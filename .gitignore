@@ -3,7 +3,9 @@
 
 # Compiled Object files
 *.slo
-*.lo
+*.loamid
+Sk
+
 *.o
 *.obj
 
